@@ -1,0 +1,11 @@
+body {
+ background: #D1EEEE;
+}
+h1 {
+ font-size: 1.6em;
+ border: inset 10px #ff0000;
+}
+li:first-letter {
+ font-weight: bold;
+ color: blue;
+}
